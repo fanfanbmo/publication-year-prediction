@@ -1,5 +1,5 @@
 This project is to predict the year of publication with entrytype, title, editor, publisher, author and abstract, based on Word2Vec and NN.
-
+The MAE of this model is around 3.1451.
 
 References
 https://xgboost.readthedocs.io/en/latest/tutorials/index.html
